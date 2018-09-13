@@ -1,4 +1,4 @@
-package spring_demo.spring;
+package com.sagar.application;
 
 /**
  * Hello world!
